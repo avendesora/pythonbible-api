@@ -2,7 +2,7 @@
 
 An API wrapper for the [pythonbible](https://github.com/avendesora/pythonbible) library using [FastAPI](https://fastapi.tiangolo.com/).
 
-<!--[![PyPI version](https://img.shields.io/pypi/v/pythonbible-api?color=blue&logo=pypi&logoColor=lightgray)](https://pypi.org/project/pythonbible-api/)-->
+[![PyPI version](https://img.shields.io/pypi/v/pythonbible-api?color=blue&logo=pypi&logoColor=lightgray)](https://pypi.org/project/pythonbible-api/)
 [![license MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 <!--![Test](https://github.com/avendesora/pythonbible-api/workflows/Test/badge.svg)
