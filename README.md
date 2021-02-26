@@ -5,8 +5,8 @@ An API wrapper for the [pythonbible](https://github.com/avendesora/pythonbible) 
 [![PyPI version](https://img.shields.io/pypi/v/pythonbible-api?color=blue&logo=pypi&logoColor=lightgray)](https://pypi.org/project/pythonbible-api/)
 [![license MIT](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-<!--![Test](https://github.com/avendesora/pythonbible-api/workflows/Test/badge.svg)
-![CodeQL](https://github.com/avendesora/pythonbible-api/workflows/CodeQL/badge.svg)-->
+<!--![Test](https://github.com/avendesora/pythonbible-api/workflows/Test/badge.svg)-->
+![CodeQL](https://github.com/avendesora/pythonbible-api/workflows/CodeQL/badge.svg)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/1139536debca4c0894aefa1fa8324a8e)](https://app.codacy.com/gh/avendesora/pythonbible-api?utm_source=github.com&utm_medium=referral&utm_content=avendesora/pythonbible-api&utm_campaign=Badge_Grade_Settings)
 [![Codacy Badge](https://app.codacy.com/project/badge/Coverage/8f7407c1b98040e185b81c945b78de22)](https://www.codacy.com/gh/avendesora/pythonbible-api/dashboard?utm_source=github.com&utm_medium=referral&utm_content=avendesora/pythonbible-api&utm_campaign=Badge_Coverage)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
