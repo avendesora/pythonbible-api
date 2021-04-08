@@ -4,9 +4,9 @@ build-backend = "flit_core.buildapi"
 
 [tool.flit.metadata]
 module = "pythonbible_api"
-author = "Nathan Patton"
-author-email = "npatton@gmail.com"
-home-page = "https://github.com/avendesora/pythonbible-api"
+author = "Fliturgy"
+author-email = "fliturgy@gmail.com"
+home-page = "https://github.com/Fliturgy/pythonbible-api"
 classifiers = [
     "Intended Audience :: Information Technology",
     "Intended Audience :: Developers",
