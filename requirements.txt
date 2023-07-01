@@ -1,2 +1,2 @@
 fastapi==0.99.0
-pythonbible==0.7.4
+pythonbible==0.11.0
