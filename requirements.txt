@@ -1,2 +1,2 @@
-fastapi==0.100.0
+fastapi==0.100.1
 pythonbible==0.11.0
